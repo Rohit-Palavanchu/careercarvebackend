@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Here's a `README.md` file for your Node.js project. This will give users a clear understanding of the project, how to set it up, and how to use it.",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
