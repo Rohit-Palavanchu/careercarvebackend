@@ -1,0 +1,16 @@
+### Get premium mentors with specific expertise
+GET http://localhost:3000/api/mentors?expertise=Sales
+Content-Type: application/json
+
+###
+
+### Create a new booking
+POST http://localhost:3000/api/bookings
+Content-Type: application/json
+
+{
+    "student_name": "David Brown",
+    "area_of_interest": "Sales",
+    "duration": 45,
+    "premium_service": false
+}
